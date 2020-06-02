@@ -7,7 +7,7 @@ The main goal of this package is to deliver High Order Component which consumes 
 
 ## Demo
 
-Check the Month picker in action, [click here](https://stackblitz.com/edit/react-n3swqy).
+Check the Month picker in action, [click here](https://react-fljxsu.stackblitz.io/?name=Shashank&lastname=tiwari).
 
 ## Install
 You can use either the npm or yarn command-line tool to install packages. Use whichever is appropriate for your project in the examples below.
